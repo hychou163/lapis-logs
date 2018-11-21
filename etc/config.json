@@ -1,0 +1,5 @@
+{
+	"port": 80,
+	"lua_code_cache": "off",
+	"num_workers": 2
+}
